@@ -22,10 +22,10 @@ setInterval(() => {
 // U CAN ONLY EDIT THIS SECTION!!
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'aap1234567.aternos.me',
+    host: 'BandidosRP.aternos.me',
     version: false, // U can replace with 1.16.5 for example, remember to use ', = '1.16.5'
-    username: 'kkk',
-    port: 12553,
+    username: 'Bandito_Bot',
+    port: 54822,
     plugins: [AutoAuth],
     AutoAuth: 'bot112022'
   })
